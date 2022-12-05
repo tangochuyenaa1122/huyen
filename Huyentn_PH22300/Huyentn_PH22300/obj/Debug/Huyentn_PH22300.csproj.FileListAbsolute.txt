@@ -1,0 +1,8 @@
+D:\NET101\Huyentn_PH22300\Huyentn_PH22300\bin\Debug\Huyentn_PH22300.exe.config
+D:\NET101\Huyentn_PH22300\Huyentn_PH22300\bin\Debug\Huyentn_PH22300.exe
+D:\NET101\Huyentn_PH22300\Huyentn_PH22300\bin\Debug\Huyentn_PH22300.pdb
+D:\NET101\Huyentn_PH22300\Huyentn_PH22300\obj\Debug\Huyentn_PH22300.csproj.AssemblyReference.cache
+D:\NET101\Huyentn_PH22300\Huyentn_PH22300\obj\Debug\Huyentn_PH22300.csproj.SuggestedBindingRedirects.cache
+D:\NET101\Huyentn_PH22300\Huyentn_PH22300\obj\Debug\Huyentn_PH22300.csproj.CoreCompileInputs.cache
+D:\NET101\Huyentn_PH22300\Huyentn_PH22300\obj\Debug\Huyentn_PH22300.exe
+D:\NET101\Huyentn_PH22300\Huyentn_PH22300\obj\Debug\Huyentn_PH22300.pdb

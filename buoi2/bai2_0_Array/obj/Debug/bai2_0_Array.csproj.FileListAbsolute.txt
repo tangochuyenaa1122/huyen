@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai2_0_Array\bin\Debug\bai2_0_Array.exe.config
+D:\NET101\buoi2\bai2_0_Array\bin\Debug\bai2_0_Array.exe
+D:\NET101\buoi2\bai2_0_Array\bin\Debug\bai2_0_Array.pdb
+D:\NET101\buoi2\bai2_0_Array\obj\Debug\bai2_0_Array.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai2_0_Array\obj\Debug\bai2_0_Array.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai2_0_Array\obj\Debug\bai2_0_Array.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai2_0_Array\obj\Debug\bai2_0_Array.exe
+D:\NET101\buoi2\bai2_0_Array\obj\Debug\bai2_0_Array.pdb

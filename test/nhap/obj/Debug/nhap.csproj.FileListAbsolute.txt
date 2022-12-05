@@ -1,0 +1,8 @@
+D:\NET101\test\nhap\bin\Debug\nhap.exe.config
+D:\NET101\test\nhap\bin\Debug\nhap.exe
+D:\NET101\test\nhap\bin\Debug\nhap.pdb
+D:\NET101\test\nhap\obj\Debug\nhap.csproj.AssemblyReference.cache
+D:\NET101\test\nhap\obj\Debug\nhap.csproj.SuggestedBindingRedirects.cache
+D:\NET101\test\nhap\obj\Debug\nhap.csproj.CoreCompileInputs.cache
+D:\NET101\test\nhap\obj\Debug\nhap.exe
+D:\NET101\test\nhap\obj\Debug\nhap.pdb

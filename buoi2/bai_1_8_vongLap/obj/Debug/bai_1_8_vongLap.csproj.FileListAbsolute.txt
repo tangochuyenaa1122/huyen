@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_1_8_vongLap\bin\Debug\bai_1_8_vongLap.exe.config
+D:\NET101\buoi2\bai_1_8_vongLap\bin\Debug\bai_1_8_vongLap.exe
+D:\NET101\buoi2\bai_1_8_vongLap\bin\Debug\bai_1_8_vongLap.pdb
+D:\NET101\buoi2\bai_1_8_vongLap\obj\Debug\bai_1_8_vongLap.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_1_8_vongLap\obj\Debug\bai_1_8_vongLap.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_1_8_vongLap\obj\Debug\bai_1_8_vongLap.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_1_8_vongLap\obj\Debug\bai_1_8_vongLap.exe
+D:\NET101\buoi2\bai_1_8_vongLap\obj\Debug\bai_1_8_vongLap.pdb

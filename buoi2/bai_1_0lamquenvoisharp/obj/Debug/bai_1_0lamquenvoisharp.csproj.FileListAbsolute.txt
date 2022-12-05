@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_1_0lamquenvoisharp\bin\Debug\bai_1_0lamquenvoisharp.exe.config
+D:\NET101\buoi2\bai_1_0lamquenvoisharp\bin\Debug\bai_1_0lamquenvoisharp.exe
+D:\NET101\buoi2\bai_1_0lamquenvoisharp\bin\Debug\bai_1_0lamquenvoisharp.pdb
+D:\NET101\buoi2\bai_1_0lamquenvoisharp\obj\Debug\bai_1_0lamquenvoisharp.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_1_0lamquenvoisharp\obj\Debug\bai_1_0lamquenvoisharp.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_1_0lamquenvoisharp\obj\Debug\bai_1_0lamquenvoisharp.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_1_0lamquenvoisharp\obj\Debug\bai_1_0lamquenvoisharp.exe
+D:\NET101\buoi2\bai_1_0lamquenvoisharp\obj\Debug\bai_1_0lamquenvoisharp.pdb

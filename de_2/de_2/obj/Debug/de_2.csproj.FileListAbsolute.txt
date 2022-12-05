@@ -1,0 +1,8 @@
+D:\NET101\de_2\de_2\bin\Debug\de_2.exe.config
+D:\NET101\de_2\de_2\bin\Debug\de_2.exe
+D:\NET101\de_2\de_2\bin\Debug\de_2.pdb
+D:\NET101\de_2\de_2\obj\Debug\de_2.csproj.AssemblyReference.cache
+D:\NET101\de_2\de_2\obj\Debug\de_2.csproj.SuggestedBindingRedirects.cache
+D:\NET101\de_2\de_2\obj\Debug\de_2.csproj.CoreCompileInputs.cache
+D:\NET101\de_2\de_2\obj\Debug\de_2.exe
+D:\NET101\de_2\de_2\obj\Debug\de_2.pdb

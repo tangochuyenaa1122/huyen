@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_3_1_oop\bin\Debug\bai_3_1_oop.exe.config
+D:\NET101\buoi2\bai_3_1_oop\bin\Debug\bai_3_1_oop.exe
+D:\NET101\buoi2\bai_3_1_oop\bin\Debug\bai_3_1_oop.pdb
+D:\NET101\buoi2\bai_3_1_oop\obj\Debug\bai_3_1_oop.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_3_1_oop\obj\Debug\bai_3_1_oop.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_3_1_oop\obj\Debug\bai_3_1_oop.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_3_1_oop\obj\Debug\bai_3_1_oop.exe
+D:\NET101\buoi2\bai_3_1_oop\obj\Debug\bai_3_1_oop.pdb

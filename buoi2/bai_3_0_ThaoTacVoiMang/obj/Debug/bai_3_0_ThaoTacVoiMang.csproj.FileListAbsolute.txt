@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_3_0_ThaoTacVoiMang\bin\Debug\bai_3_0_ThaoTacVoiMang.exe.config
+D:\NET101\buoi2\bai_3_0_ThaoTacVoiMang\bin\Debug\bai_3_0_ThaoTacVoiMang.exe
+D:\NET101\buoi2\bai_3_0_ThaoTacVoiMang\bin\Debug\bai_3_0_ThaoTacVoiMang.pdb
+D:\NET101\buoi2\bai_3_0_ThaoTacVoiMang\obj\Debug\bai_3_0_ThaoTacVoiMang.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_3_0_ThaoTacVoiMang\obj\Debug\bai_3_0_ThaoTacVoiMang.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_3_0_ThaoTacVoiMang\obj\Debug\bai_3_0_ThaoTacVoiMang.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_3_0_ThaoTacVoiMang\obj\Debug\bai_3_0_ThaoTacVoiMang.exe
+D:\NET101\buoi2\bai_3_0_ThaoTacVoiMang\obj\Debug\bai_3_0_ThaoTacVoiMang.pdb

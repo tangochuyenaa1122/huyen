@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_1_5_cauLenhReNhanh\bin\Debug\bai_1_5_cauLenhReNhanh.exe.config
+D:\NET101\buoi2\bai_1_5_cauLenhReNhanh\bin\Debug\bai_1_5_cauLenhReNhanh.exe
+D:\NET101\buoi2\bai_1_5_cauLenhReNhanh\bin\Debug\bai_1_5_cauLenhReNhanh.pdb
+D:\NET101\buoi2\bai_1_5_cauLenhReNhanh\obj\Debug\bai_1_5_cauLenhReNhanh.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_1_5_cauLenhReNhanh\obj\Debug\bai_1_5_cauLenhReNhanh.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_1_5_cauLenhReNhanh\obj\Debug\bai_1_5_cauLenhReNhanh.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_1_5_cauLenhReNhanh\obj\Debug\bai_1_5_cauLenhReNhanh.exe
+D:\NET101\buoi2\bai_1_5_cauLenhReNhanh\obj\Debug\bai_1_5_cauLenhReNhanh.pdb

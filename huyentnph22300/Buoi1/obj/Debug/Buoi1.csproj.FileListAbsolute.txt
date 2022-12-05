@@ -1,0 +1,8 @@
+D:\NET101\Buoi1\Buoi1\bin\Debug\Buoi1.exe.config
+D:\NET101\Buoi1\Buoi1\bin\Debug\Buoi1.exe
+D:\NET101\Buoi1\Buoi1\bin\Debug\Buoi1.pdb
+D:\NET101\Buoi1\Buoi1\obj\Debug\Buoi1.csproj.AssemblyReference.cache
+D:\NET101\Buoi1\Buoi1\obj\Debug\Buoi1.csproj.SuggestedBindingRedirects.cache
+D:\NET101\Buoi1\Buoi1\obj\Debug\Buoi1.csproj.CoreCompileInputs.cache
+D:\NET101\Buoi1\Buoi1\obj\Debug\Buoi1.exe
+D:\NET101\Buoi1\Buoi1\obj\Debug\Buoi1.pdb

@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai1_6_ToanTuBaNgoi\bin\Debug\bai1_6_ToanTuBaNgoi.exe.config
+D:\NET101\buoi2\bai1_6_ToanTuBaNgoi\bin\Debug\bai1_6_ToanTuBaNgoi.exe
+D:\NET101\buoi2\bai1_6_ToanTuBaNgoi\bin\Debug\bai1_6_ToanTuBaNgoi.pdb
+D:\NET101\buoi2\bai1_6_ToanTuBaNgoi\obj\Debug\bai1_6_ToanTuBaNgoi.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai1_6_ToanTuBaNgoi\obj\Debug\bai1_6_ToanTuBaNgoi.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai1_6_ToanTuBaNgoi\obj\Debug\bai1_6_ToanTuBaNgoi.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai1_6_ToanTuBaNgoi\obj\Debug\bai1_6_ToanTuBaNgoi.exe
+D:\NET101\buoi2\bai1_6_ToanTuBaNgoi\obj\Debug\bai1_6_ToanTuBaNgoi.pdb

@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_1_1BienLaGi\bin\Debug\bai_1_1BienLaGi.exe.config
+D:\NET101\buoi2\bai_1_1BienLaGi\bin\Debug\bai_1_1BienLaGi.exe
+D:\NET101\buoi2\bai_1_1BienLaGi\bin\Debug\bai_1_1BienLaGi.pdb
+D:\NET101\buoi2\bai_1_1BienLaGi\obj\Debug\bai_1_1BienLaGi.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_1_1BienLaGi\obj\Debug\bai_1_1BienLaGi.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_1_1BienLaGi\obj\Debug\bai_1_1BienLaGi.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_1_1BienLaGi\obj\Debug\bai_1_1BienLaGi.exe
+D:\NET101\buoi2\bai_1_1BienLaGi\obj\Debug\bai_1_1BienLaGi.pdb

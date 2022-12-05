@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_3_4_Method\bin\Debug\bai_3_4_Method.exe.config
+D:\NET101\buoi2\bai_3_4_Method\bin\Debug\bai_3_4_Method.exe
+D:\NET101\buoi2\bai_3_4_Method\bin\Debug\bai_3_4_Method.pdb
+D:\NET101\buoi2\bai_3_4_Method\obj\Debug\bai_3_4_Method.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_3_4_Method\obj\Debug\bai_3_4_Method.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_3_4_Method\obj\Debug\bai_3_4_Method.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_3_4_Method\obj\Debug\bai_3_4_Method.exe
+D:\NET101\buoi2\bai_3_4_Method\obj\Debug\bai_3_4_Method.pdb

@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_3_6_BTMau_CRUD_OBJ\obj\Debug\bai_3_6_BTMau_CRUD_OBJ.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_3_6_BTMau_CRUD_OBJ\obj\Debug\bai_3_6_BTMau_CRUD_OBJ.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_3_6_BTMau_CRUD_OBJ\obj\Debug\bai_3_6_BTMau_CRUD_OBJ.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_3_6_BTMau_CRUD_OBJ\bin\Debug\bai_3_6_BTMau_CRUD_OBJ.exe.config
+D:\NET101\buoi2\bai_3_6_BTMau_CRUD_OBJ\bin\Debug\bai_3_6_BTMau_CRUD_OBJ.exe
+D:\NET101\buoi2\bai_3_6_BTMau_CRUD_OBJ\bin\Debug\bai_3_6_BTMau_CRUD_OBJ.pdb
+D:\NET101\buoi2\bai_3_6_BTMau_CRUD_OBJ\obj\Debug\bai_3_6_BTMau_CRUD_OBJ.exe
+D:\NET101\buoi2\bai_3_6_BTMau_CRUD_OBJ\obj\Debug\bai_3_6_BTMau_CRUD_OBJ.pdb

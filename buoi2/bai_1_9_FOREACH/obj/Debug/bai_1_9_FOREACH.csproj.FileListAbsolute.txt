@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_1_9_FOREACH\bin\Debug\bai_1_9_FOREACH.exe.config
+D:\NET101\buoi2\bai_1_9_FOREACH\bin\Debug\bai_1_9_FOREACH.exe
+D:\NET101\buoi2\bai_1_9_FOREACH\bin\Debug\bai_1_9_FOREACH.pdb
+D:\NET101\buoi2\bai_1_9_FOREACH\obj\Debug\bai_1_9_FOREACH.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_1_9_FOREACH\obj\Debug\bai_1_9_FOREACH.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_1_9_FOREACH\obj\Debug\bai_1_9_FOREACH.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_1_9_FOREACH\obj\Debug\bai_1_9_FOREACH.exe
+D:\NET101\buoi2\bai_1_9_FOREACH\obj\Debug\bai_1_9_FOREACH.pdb

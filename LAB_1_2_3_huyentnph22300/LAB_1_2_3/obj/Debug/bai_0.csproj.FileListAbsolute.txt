@@ -1,0 +1,16 @@
+D:\NET101\LAB_1_2_3\LAB_1_2_3\bin\Debug\LAB_1_2_3.exe.config
+D:\NET101\LAB_1_2_3\LAB_1_2_3\bin\Debug\LAB_1_2_3.exe
+D:\NET101\LAB_1_2_3\LAB_1_2_3\bin\Debug\LAB_1_2_3.pdb
+D:\NET101\LAB_1_2_3\LAB_1_2_3\obj\Debug\bai_0.csproj.AssemblyReference.cache
+D:\NET101\LAB_1_2_3\LAB_1_2_3\obj\Debug\bai_0.csproj.SuggestedBindingRedirects.cache
+D:\NET101\LAB_1_2_3\LAB_1_2_3\obj\Debug\bai_0.csproj.CoreCompileInputs.cache
+D:\NET101\LAB_1_2_3\LAB_1_2_3\obj\Debug\LAB_1_2_3.exe
+D:\NET101\LAB_1_2_3\LAB_1_2_3\obj\Debug\LAB_1_2_3.pdb
+D:\NET101\LAB_1_2_3_huyentnph22300\LAB_1_2_3\bin\Debug\LAB_1_2_3.exe.config
+D:\NET101\LAB_1_2_3_huyentnph22300\LAB_1_2_3\bin\Debug\LAB_1_2_3.exe
+D:\NET101\LAB_1_2_3_huyentnph22300\LAB_1_2_3\bin\Debug\LAB_1_2_3.pdb
+D:\NET101\LAB_1_2_3_huyentnph22300\LAB_1_2_3\obj\Debug\bai_0.csproj.AssemblyReference.cache
+D:\NET101\LAB_1_2_3_huyentnph22300\LAB_1_2_3\obj\Debug\bai_0.csproj.SuggestedBindingRedirects.cache
+D:\NET101\LAB_1_2_3_huyentnph22300\LAB_1_2_3\obj\Debug\bai_0.csproj.CoreCompileInputs.cache
+D:\NET101\LAB_1_2_3_huyentnph22300\LAB_1_2_3\obj\Debug\LAB_1_2_3.exe
+D:\NET101\LAB_1_2_3_huyentnph22300\LAB_1_2_3\obj\Debug\LAB_1_2_3.pdb

@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_1_7_switch_case\bin\Debug\bai_1_7_switch_case.exe.config
+D:\NET101\buoi2\bai_1_7_switch_case\bin\Debug\bai_1_7_switch_case.exe
+D:\NET101\buoi2\bai_1_7_switch_case\bin\Debug\bai_1_7_switch_case.pdb
+D:\NET101\buoi2\bai_1_7_switch_case\obj\Debug\bai_1_7_switch_case.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_1_7_switch_case\obj\Debug\bai_1_7_switch_case.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_1_7_switch_case\obj\Debug\bai_1_7_switch_case.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_1_7_switch_case\obj\Debug\bai_1_7_switch_case.exe
+D:\NET101\buoi2\bai_1_7_switch_case\obj\Debug\bai_1_7_switch_case.pdb

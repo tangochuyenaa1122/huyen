@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_3_7_xử_lý_chuỗi\bin\Debug\bai_3_7_xử_lý_chuỗi.exe.config
+D:\NET101\buoi2\bai_3_7_xử_lý_chuỗi\bin\Debug\bai_3_7_xử_lý_chuỗi.exe
+D:\NET101\buoi2\bai_3_7_xử_lý_chuỗi\bin\Debug\bai_3_7_xử_lý_chuỗi.pdb
+D:\NET101\buoi2\bai_3_7_xử_lý_chuỗi\obj\Debug\bai_3_7_xử_lý_chuỗi.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_3_7_xử_lý_chuỗi\obj\Debug\bai_3_7_xử_lý_chuỗi.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_3_7_xử_lý_chuỗi\obj\Debug\bai_3_7_xử_lý_chuỗi.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_3_7_xử_lý_chuỗi\obj\Debug\bai_3_7_xử_lý_chuỗi.exe
+D:\NET101\buoi2\bai_3_7_xử_lý_chuỗi\obj\Debug\bai_3_7_xử_lý_chuỗi.pdb

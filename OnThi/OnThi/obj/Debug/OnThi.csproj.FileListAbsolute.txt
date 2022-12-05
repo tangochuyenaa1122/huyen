@@ -1,0 +1,8 @@
+D:\NET101\OnThi\OnThi\bin\Debug\OnThi.exe.config
+D:\NET101\OnThi\OnThi\bin\Debug\OnThi.exe
+D:\NET101\OnThi\OnThi\bin\Debug\OnThi.pdb
+D:\NET101\OnThi\OnThi\obj\Debug\OnThi.csproj.AssemblyReference.cache
+D:\NET101\OnThi\OnThi\obj\Debug\OnThi.csproj.SuggestedBindingRedirects.cache
+D:\NET101\OnThi\OnThi\obj\Debug\OnThi.csproj.CoreCompileInputs.cache
+D:\NET101\OnThi\OnThi\obj\Debug\OnThi.exe
+D:\NET101\OnThi\OnThi\obj\Debug\OnThi.pdb

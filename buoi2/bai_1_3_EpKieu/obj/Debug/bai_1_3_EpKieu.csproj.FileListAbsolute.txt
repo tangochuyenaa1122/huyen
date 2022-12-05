@@ -1,0 +1,8 @@
+D:\NET101\buoi2\bai_1_3_EpKieu\bin\Debug\bai_1_3_EpKieu.exe.config
+D:\NET101\buoi2\bai_1_3_EpKieu\bin\Debug\bai_1_3_EpKieu.exe
+D:\NET101\buoi2\bai_1_3_EpKieu\bin\Debug\bai_1_3_EpKieu.pdb
+D:\NET101\buoi2\bai_1_3_EpKieu\obj\Debug\bai_1_3_EpKieu.csproj.AssemblyReference.cache
+D:\NET101\buoi2\bai_1_3_EpKieu\obj\Debug\bai_1_3_EpKieu.csproj.SuggestedBindingRedirects.cache
+D:\NET101\buoi2\bai_1_3_EpKieu\obj\Debug\bai_1_3_EpKieu.csproj.CoreCompileInputs.cache
+D:\NET101\buoi2\bai_1_3_EpKieu\obj\Debug\bai_1_3_EpKieu.exe
+D:\NET101\buoi2\bai_1_3_EpKieu\obj\Debug\bai_1_3_EpKieu.pdb

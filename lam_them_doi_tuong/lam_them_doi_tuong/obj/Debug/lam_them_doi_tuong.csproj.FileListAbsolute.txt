@@ -1,0 +1,8 @@
+D:\NET101\lam_them_doi_tuong\lam_them_doi_tuong\bin\Debug\lam_them_doi_tuong.exe.config
+D:\NET101\lam_them_doi_tuong\lam_them_doi_tuong\bin\Debug\lam_them_doi_tuong.exe
+D:\NET101\lam_them_doi_tuong\lam_them_doi_tuong\bin\Debug\lam_them_doi_tuong.pdb
+D:\NET101\lam_them_doi_tuong\lam_them_doi_tuong\obj\Debug\lam_them_doi_tuong.csproj.AssemblyReference.cache
+D:\NET101\lam_them_doi_tuong\lam_them_doi_tuong\obj\Debug\lam_them_doi_tuong.csproj.SuggestedBindingRedirects.cache
+D:\NET101\lam_them_doi_tuong\lam_them_doi_tuong\obj\Debug\lam_them_doi_tuong.csproj.CoreCompileInputs.cache
+D:\NET101\lam_them_doi_tuong\lam_them_doi_tuong\obj\Debug\lam_them_doi_tuong.exe
+D:\NET101\lam_them_doi_tuong\lam_them_doi_tuong\obj\Debug\lam_them_doi_tuong.pdb
